@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/55/trunk/tests
+END
+jsonpath-test-php.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/36/trunk/tests/jsonpath-test-php.php
+END
+jsonpath-test-js.html
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/55/trunk/tests/jsonpath-test-js.html
+END
